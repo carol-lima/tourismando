@@ -38,6 +38,7 @@ class App extends StatelessWidget {
 
   ThemeData _theme() {
     return ThemeData(
+        primaryColor: AppBarColorLight,
         appBarTheme: AppBarTheme(
           textTheme: TextTheme(title: AppBarTextStyle),
         ),
