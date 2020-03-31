@@ -12,3 +12,4 @@ Projeto teste
 - Listagem de itens 
 - Passagem de parâmetro para pagina de detalhes
 
+(https://github.com/carol-lima/tourismando/blob/master/flutterapptest.gif)
