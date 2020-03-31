@@ -12,4 +12,4 @@ Projeto teste
 - Listagem de itens 
 - Passagem de parâmetro para pagina de detalhes
 
-![alt-text] (flutterapptest.gif)
+![alt text](flutterapptest.gif)
