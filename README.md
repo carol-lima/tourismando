@@ -1,8 +1,6 @@
 # tourismando
 
-Flutter App
-
-Listagem de locais para passeios com curiosidades e como chegar.
+:dart: Flutter App - Listagem de locais para passeios com curiosidades e como chegar.
 
 Projeto teste: 
 
